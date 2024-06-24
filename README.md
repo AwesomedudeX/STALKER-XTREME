@@ -2,13 +2,15 @@
 
 This is my modded configuration of **S.T.A.L.K.E.R. Anomaly** - a *free*, *standalone* mod in the **S.T.A.L.K.E.R.** game series. This configuration features **G.A.M.M.A.** (*Grok's Automated Modular Modpack for Anomaly*), which is currently the largest and most popular modpack for **Anomaly**.
 
+***JOIN THE S.T.A.L.K.E.R. G.A.M.M.A. DISCORD SERVER:*** *https://discord.gg/stalker-gamma*
+
 **MAKE SURE TO FOLLOW THE INSTALLATION THOUROUGHLY** - if you don't, you may not achieve the expected results, or the game might not run properly altogether.
 
 Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressful Zone* mod that affects your *psy health*, individual *limb health*, complex (yet comprehensive) *item repairs*, and **much**, much more.
 
-I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. You can contact me via Discord Direct Messages at *AwesomedudeX*.
+I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. If you have any problems, you can contact me for help and I'll do what I can to assist you. You can contact me via Discord Direct Messages at *AwesomedudeX*.
 
-To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the ***instructions.txt*** file, inside of the ***Settings Presets*** file. The files you will need are below.
+To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the ***instructions.txt*** file, inside of the ***Settings Presets*** file. The files you will need are below. If you want the regular ***mods.7z*** file - which has all the mods already installed - instead of the ***modsOptimized.7z*** file - which has a lot of G.A.M.M.A. mods removed to optimize file size (and therefore requires use of the launcher to install the remaining files, which can take a while), then you can send me a message on Discord and I'll get you the file when possible.
 
 
 # Installation Files:
@@ -32,6 +34,9 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=1vMwveUG73K06xwxQ6m9WnlfYHsaOG0KQ
 
+## GAMMA RC3.7z File:
+
+The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Discord Server, but you can also get it here: https://www.mediafire.com/file/y9e4fg4qbi7m6et/GAMMA_RC3.7z/file
 
 # Basic Information
 
