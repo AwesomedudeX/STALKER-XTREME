@@ -10,17 +10,17 @@ Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressf
 
 I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. You can contact me via Discord Direct Messgaes at *AwesomedudeX*.
 
-
-## Basic Information
+---
+# Basic Information
 
 ...
 
 
+---
+# My Keybinds
 
-## My Keybinds
 
-
-### Movement Keybinds:
+## Movement Keybinds:
 
 **W**: Move forward
 
@@ -43,14 +43,14 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 **X**: Freelook
 
 
-### Health Keybinds:
+## Health Keybinds:
 
 **H**: Cycle health view
 
 **N**: Show **Cold System** HUD (information on this in **Basic Information**)
 
 
-### Inventory Keybinds:
+## Inventory Keybinds:
 
 **TAB**: Open inventory
 
@@ -61,7 +61,7 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 **SHIFT**+**LEFT-CLICK**: Quick-move **ALL** items (or pick up a **stash**)
 
 
-### Weapon & Equipment Keybinds:
+## Weapon & Equipment Keybinds:
 
 **LEFT-CLICK**: Shoot
 
