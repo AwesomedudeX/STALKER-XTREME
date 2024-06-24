@@ -17,10 +17,10 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 
 
-## My Controls
+## My Keybinds
 
 
-### Movement Controls:
+### Movement Keybinds:
 
 **W**: Move forward
 
@@ -63,6 +63,10 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 ### Weapon & Equipment Keybinds:
 
+**LEFT-CLICK**: Shoot
+
+**RIGHT-CLICK**: Aim
+
 **1**: Primary weapon (right large equipment slot - this is structured this way for some reason, but it's not a very big deal, so I wouldn't bother about it)
 
 **2**: Secondary weapon (left large equipment slot)
@@ -71,7 +75,7 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 **4**: Knife/Binoculars (top-left small equipment slot)
 
-**5**: Clean Mask
+**5**: Clean mask (if you are wearing one)
 
 **6**: Bolt/empty round casings
 
@@ -89,7 +93,9 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 **V**: Cycle firemodes
 
-**Y**
+**Y**: Unjam weapon (or inspect if your weapon is either super-jammed or not jammed - see **Basic Information** for more information
+
+**B**: Toggle weapon position (low ready/firing position)
 
 **M**: PDA device - Personal Digital Assistant (upper-bottom-left small equipment slot)
 
@@ -107,3 +113,66 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 **Z**: **HOLD** to toggle lazer, **PRESS** to toggle headlamp (for **BOTH**: will only work if you have one)
 
+
+### HUD/Menu Keybinds
+
+**ESC**: Pause game/Exit current menu
+
+**F5**: Quicksave
+
+**F7** Debugger
+
+**F9**: Load last quicksave
+
+**F10**: Toggle minimap
+
+**F12**: Screenshot
+
+**`**: Console (command entry)
+
+
+**K**: Show skills
+
+**I**: (**HOLD**) Show current objective
+
+**T**: Companion wheel
+
+
+**ENTER**: Start/stop radio
+
+**RIGHT-SHIFT**: Start/stop personal audio player
+
+**'**: Cycle channel/playlist
+
+
+**UP**: (**ARROW**) Volume Up
+
+**DOWN**: (**ARROW**) Volume Down
+
+**RIGHT**: (**ARROW**) Next track
+
+**LEFT**: (**ARROW**) Previous track
+
+
+**NUMPAD1**: Toggle combat mode (ignore combat/fire at will)
+
+**NUMPAD2**: Toggle movement mode (wait here/follow me)
+
+**NUMPAD3**: Move-to-point (**HOLD**, look at a point and **RELEASE**)
+
+**NUMPAD4**: Toggle stealth/sover mode (stealth/stop stealth)
+
+**NUMPAD5**: Toggle looting mode (loot corpses/don't loot)
+
+**NUMPAD7**: First-person view
+
+**NUMPAD8**: Third-person view (locked+close)
+
+**NUMPAD9**: Third-person view (free+far)
+
+**NUMPADENTER**: Toggle HUD
+
+
+**\***: Item Animations
+
+**]**: Ammo Selector
