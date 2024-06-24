@@ -114,7 +114,7 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 **Z**: **HOLD** to toggle lazer, **PRESS** to toggle headlamp (for **BOTH**: will only work if you have one)
 
 
-### HUD/Menu Keybinds
+## HUD/Menu Keybinds
 
 **ESC**: Pause game/Exit current menu
 
