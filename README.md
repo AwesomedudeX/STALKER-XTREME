@@ -2,13 +2,35 @@
 
 This is my modded configuration of **S.T.A.L.K.E.R. Anomaly** - a *free*, *standalone* mod in the **S.T.A.L.K.E.R.** game series. This configuration features **G.A.M.M.A.** (*Grok's Automated Modular Modpack for Anomaly*), which is currently the largest and most popular modpack for **Anomaly**.
 
-To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the instructions.txt file. The files you will need are below.
-
 **MAKE SURE TO FOLLOW THE INSTALLATION THOUROUGHLY** - if you don't, you may not achieve the expected results, or the game might not run properly altogether.
 
 Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressful Zone* mod that affects your *psy health*, individual *limb health*, complex (yet comprehensive) *item repairs*, and **much**, much more.
 
-I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. You can contact me via Discord Direct Messgaes at *AwesomedudeX*.
+I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. You can contact me via Discord Direct Messages at *AwesomedudeX*.
+
+To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the ***instructions.txt*** file, inside of the ***Settings Presets*** file. The files you will need are below.
+
+
+# Installation Files:
+
+## GitHub Files:
+
+These files are located inside of this repository. To download them, open them here (or go to the links posted below) and click on the download icon on the right side of the toolbar to download the file.
+
+***Settings Presets.7z*** - https://github.com/AwesomedudeX/STALKER-XTREME/blob/main/Settings%20Presets.7z
+
+***profiles.7z*** - https://github.com/AwesomedudeX/STALKER-XTREME/blob/main/profiles.7z
+
+
+## Google Drive Files:
+
+These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
+
+***Anomaly.7z*** - https://drive.google.com/uc?export=download&id=1VF6cZrSklBlVl5xWumaKl_AzcxhnLKtW
+
+***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=132h5pevrZx34K7UfI1k63rsab7MZFSW7
+
+***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=1vMwveUG73K06xwxQ6m9WnlfYHsaOG0KQ
 
 
 # Basic Information
@@ -18,7 +40,6 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 
 # My Keybinds
-
 
 ## Movement Keybinds:
 
