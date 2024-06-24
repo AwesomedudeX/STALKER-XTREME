@@ -10,13 +10,13 @@ Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressf
 
 I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. You can contact me via Discord Direct Messgaes at *AwesomedudeX*.
 
----
+
 # Basic Information
 
 ...
 
 
----
+
 # My Keybinds
 
 
