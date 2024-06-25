@@ -38,6 +38,24 @@ These files are located on Google Drive. To download them, just click on the dow
 
 The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Discord Server, but you can also get it here: https://www.mediafire.com/file/y9e4fg4qbi7m6et/GAMMA_RC3.7z/file
 
+
+# Performance Tips
+
+## Mod Configuration Menu:
+
+- Lower shadow quality - **Small Impact**
+- Lower reflection quality - **Small Impact**
+- Lower/disable volumetric light settings in *SSR* - **Medium Impact**
+
+## Base Game Settings:
+
+- Disable or set SSAO to SSDO (less intensive option) - **Small Impact**
+- Lower/disable volumetric light settings
+- Lower your render distance - **Medium Impact**
+- Lower grass density and/or render distance - **Medium to Large Impact**
+- If all else fails, lower your game resolution (make sure it matches your screen aspect ratio; most common is **16:9**) - **Large Impact**
+
+
 # Basic Information
 
 ...
