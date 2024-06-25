@@ -30,7 +30,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***Anomaly.7z*** - https://drive.google.com/uc?export=download&id=1VF6cZrSklBlVl5xWumaKl_AzcxhnLKtW
 
-***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=132h5pevrZx34K7UfI1k63rsab7MZFSW7
+***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=17mBpo0gZTYLoDfaWy98n1eUuRmMMV_73
 
 ***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=1vMwveUG73K06xwxQ6m9WnlfYHsaOG0KQ
 
