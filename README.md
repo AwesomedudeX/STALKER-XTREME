@@ -30,7 +30,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***Anomaly.7z*** - https://drive.google.com/uc?export=download&id=1VF6cZrSklBlVl5xWumaKl_AzcxhnLKtW
 
-***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=17mBpo0gZTYLoDfaWy98n1eUuRmMMV_73
+***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1UgktWodrM5km7yyJogYKfQVwdEvTJs72
 
 ***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=1vMwveUG73K06xwxQ6m9WnlfYHsaOG0KQ
 
@@ -56,10 +56,14 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 - If all else fails, lower your game resolution (make sure it matches your screen aspect ratio; most common is **16:9**) - **Large Impact**
 
 
-# Basic Information
+# Base Game Information
 
 ...
 
+
+# Gameplay Information
+
+...
 
 
 # My Keybinds
@@ -91,7 +95,7 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **H**: Cycle health view
 
-**N**: Show **Cold System** HUD (information on this in **Basic Information**)
+**N**: Show **Cold System** HUD (information on this in **Gameplay Information**)
 
 
 ## Inventory Keybinds:
@@ -137,7 +141,7 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **V**: Cycle firemodes
 
-**Y**: Unjam weapon (or inspect if your weapon is either super-jammed or not jammed - see **Basic Information** for more information
+**Y**: Unjam weapon (or inspect if your weapon is either super-jammed or not jammed - see **Gameplay Information** for more information
 
 **B**: Toggle weapon position (low ready/firing position)
 
