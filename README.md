@@ -120,13 +120,13 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **2**: Secondary weapon (left large equipment slot)
 
-**3**: Sidearm/Knife (lower-bottom-left small equipment slot)
+**3**: Sidearm/Knife (bottom-left small equipment slot)
 
 **4**: Knife/Binoculars (top-left small equipment slot)
 
 **5**: Clean mask (if you are wearing one)
 
-**6**: Bolt/empty round casings (smallest equipment slot)
+**6**: Bolt/empty round casings (left square equipment slot)
 
 **7**: Show **Cold System** HUD (for 5 seconds)
 
@@ -134,9 +134,9 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **9**: Attach/Detach suppressor (if you have one for your currently equipped gun)
 
-**LEFT-ALT**, then **RIGHT-CLICK (hold)**: Point-aim (if you have a lazer) / Underbarrel grenade launcher (if you have one)
+**RIGHT-CLICK (hold)**, then **LEFT-ALT**: Point-aim (if you have a lazer) / Underbarrel grenade launcher (if you have one)
 
-**CAPS LOCK**: Detector/Glowstick (middle-bottom-left small equipment slot)
+**CAPS LOCK**: Detector/Glowstick (upper-bottom-right small equipment slot)
 
 **R**: Reload (if you have a corresponding magazine that was designated to your loadout - RIGHT-CLICK+"add to loadout" to add a magazine to your loadout)
 
@@ -146,7 +146,9 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **B**: Toggle weapon position (low ready/firing position)
 
-**M**: PDA device - Personal Digital Assistant (upper-bottom-left small equipment slot)
+**G**: Grenade (right square equipment slot)
+
+**M**: PDA device - Personal Digital Assistant (lower-bottom-right small equipment slot)
 
 
 **F1**: Quick-use item 1
