@@ -49,6 +49,7 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 ## Base Game Settings:
 
+- **IN THE LAUNCHER:** Lower the shadow map resolution - **Medium Impact**
 - Disable or set SSAO to SSDO (less intensive option) - **Small Impact**
 - Lower/disable volumetric light settings
 - Lower your render distance - **Medium Impact**
@@ -125,15 +126,15 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **5**: Clean mask (if you are wearing one)
 
-**6**: Bolt/empty round casings
+**6**: Bolt/empty round casings (smallest equipment slot)
 
-**7**: Attach/Detach suppressor (smallest equipment slot)
+**7**: Show **Cold System** HUD (for 5 seconds)
 
 **8**: Show radiation counter (mSv)
 
-**9**: Show **Cold System** HUD (for 5 seconds)
+**9**: Attach/Detach suppressor (if you have one for your currently equipped gun)
 
-**LEFT-ALT**+**RIGHT-CLICK**: Point-aim (if you have a lazer) / Underbarrel grenade launcher (if you have one)
+**LEFT-ALT**, then **RIGHT-CLICK (hold)**: Point-aim (if you have a lazer) / Underbarrel grenade launcher (if you have one)
 
 **CAPS LOCK**: Detector/Glowstick (middle-bottom-left small equipment slot)
 
