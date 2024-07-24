@@ -28,7 +28,7 @@ These files are located inside of this repository. To download them, open them h
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***Anomaly.7z*** - https://drive.google.com/uc?export=download&id=1VF6cZrSklBlVl5xWumaKl_AzcxhnLKtW
+***Anomaly.7z*** - Currently unavailable; will be replaced soon
 
 ***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1nXcpMvrk6V2wNVIueJmwA4hDDOvuRtod
 
