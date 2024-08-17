@@ -32,7 +32,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1tyqGzFEkgGRuPw1WaXpB7zOC7QJJT3ho
 
-***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=1vMwveUG73K06xwxQ6m9WnlfYHsaOG0KQ
+***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=10MrBMJzZCNuob7KfyUxIJcgVtpoapjAg
 
 ## GAMMA RC3.7z File:
 
