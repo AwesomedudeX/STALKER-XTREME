@@ -30,7 +30,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***Anomaly.7z*** - https://drive.google.com/uc?export=download&id=1GyTsufgtAr08xg9j9gWWv9CBbh6fqKxf
 
-***modsOptimized.7z*** - WILL BE UPDATED SOON
+***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1_liKZlPpHPDWSkSGoDYv8-Z0e0S9qIN7
 
 **Large Mods.7z** - https://drive.google.com/uc?export=download&id=1dD8hajFVHXRm52q1GCo1JY8cEEboXsWN
 
