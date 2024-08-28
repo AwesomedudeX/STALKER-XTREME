@@ -12,8 +12,19 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the ***instructions.txt*** file, inside of the ***Settings Presets*** file. The files you will need are below. If you want the regular ***mods.7z*** file - which has all the mods already installed - instead of the ***modsOptimized.7z*** file - which has a lot of G.A.M.M.A. mods removed to optimize file size (and therefore requires use of the launcher to install the remaining files, which can take a while), then you can send me a message on Discord and I'll get you the file when possible.
 
+To start, create a folder called "STALKER", and open it. Once inside, create a folder called "Anomaly". This will store all of the base game files, and is playable on its own, but tends to be much more enjoyable with mods.
 
 # Installation Files:
+
+## Anomaly Files:
+
+Before you start, you will need STALKER Anomaly 1.5.2; to get it, just download these two files:
+
+***STALKER Anomaly 1.5.1***: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151
+
+***STALKER ANOMALY 1.5.2 Update***: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
+
+AFter they're done downloading, open them in 7zip (download at https://7-zip.org/download.html), and drag and drop **ALL** of the contents of the Anomaly 1.5.1 file into your Anomaly folder. After that's done, do the same for the 1.5.2 update and replace the existing files when prompted. After the game has been installed, run the Anomaly launcher, enable the "Delete shader cache" box, select your display settings and launch the game. Once the main menu loads, close the game - this is just to have STALKER Anomaly generate the folders and files neccessary to mod the game and run it.
 
 ## GitHub Files:
 
@@ -32,7 +43,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1_liKZlPpHPDWSkSGoDYv8-Z0e0S9qIN7
 
-**Large Mods.7z** - https://drive.google.com/uc?export=download&id=1dD8hajFVHXRm52q1GCo1JY8cEEboXsWN
+**Large Mods.7z** - https://drive.google.com/uc?export=download&id=1T75rTsSVDt1LinJlsV1HxtTN-a3LY4MW
 
 ***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=10MrBMJzZCNuob7KfyUxIJcgVtpoapjAg
 
