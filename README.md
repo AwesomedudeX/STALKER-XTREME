@@ -12,7 +12,7 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 # Required/Recommended PC Specs (for the game to be playable):
 
-**Storage**: 300GB/350GB or more
+**Storage**: 300GB/350GB or more\n
 **RAM**: 8GB DDR4/16GB DDR5 or more
 **VRAM**: 4GB GDDR5/6GB GDDR6 or more
 **CPU**: Intel Core i5-10400F/Intel Core i7-11800H or better
