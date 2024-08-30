@@ -10,7 +10,7 @@ Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressf
 
 I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. If you have any problems, you can contact me for help and I'll do what I can to assist you. You can contact me via Discord Direct Messages at *AwesomedudeX*.
 
-### Required/Recommended PC Specs (for the game to be playable):
+# Required/Recommended PC Specs (for the game to be playable):
 
 **Storage**: 300GB/350GB or more
 **RAM**: 8GB DDR4/16GB DDR5 or more
