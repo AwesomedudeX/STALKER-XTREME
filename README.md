@@ -28,24 +28,19 @@ AFter they're done downloading, open them in 7zip (download at https://7-zip.org
 
 ## GitHub Files:
 
-These files are located inside of this repository. To download them, open them here (or go to the links posted below) and click on the download icon on the right side of the toolbar to download the file.
+This file is located inside of this repository. To download it, open the file here (or go to the link posted below) and click on the download icon on the right side of the toolbar to download the file.
 
-***Settings Presets.7z*** - https://github.com/AwesomedudeX/STALKER-XTREME/blob/main/Settings%20Presets.7z
-
-***profiles.7z*** - https://github.com/AwesomedudeX/STALKER-XTREME/blob/main/profiles.7z
-
+***Settings Presets.7z*** - https://github.com/AwesomedudeX/STALKER-XTREME/blob/main/Settings%20Presets.7z (includes all graphics, controls, atmospheric, ReShade, MCM and MO2 settings that are used in this modpack)
 
 ## Google Drive Files:
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***Anomaly.7z*** - https://drive.google.com/uc?export=download&id=1GyTsufgtAr08xg9j9gWWv9CBbh6fqKxf
+***modsOptimized.7z*** - [TO BE UPDATED SOON] (contains most of the mods for this modpack)
 
-***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1_liKZlPpHPDWSkSGoDYv8-Z0e0S9qIN7
+**Large Mods.7z** - [TO BE UPDATED SOON] (contains the largest mods in this modpack, and those related to them)
 
-**Large Mods.7z** - https://drive.google.com/uc?export=download&id=1T75rTsSVDt1LinJlsV1HxtTN-a3LY4MW
-
-***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=10MrBMJzZCNuob7KfyUxIJcgVtpoapjAg
+***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=10MrBMJzZCNuob7KfyUxIJcgVtpoapjAg (a shaders mod called *"Atmospherics GAMMA"*)
 
 ## GAMMA RC3.7z File:
 
