@@ -10,7 +10,9 @@ Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressf
 
 I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. If you have any problems, you can contact me for help and I'll do what I can to assist you. You can contact me via Discord Direct Messages at *AwesomedudeX*.
 
-# Required/Recommended PC Specs (for the game to be playable):
+# Required/Recommended PC Specs
+
+Note: Required specs are necessary for the game to be remotely playable with all the default mods, whereas recommended specs will run a comfortable 30-60FPS in most areas, and will achieve up to 120FPS in less demanding areas, like the Fake Start testing zone, which can be accessed by pressing F2 from the main menu.
 
 **Storage**: 300GB/350GB or more
 
