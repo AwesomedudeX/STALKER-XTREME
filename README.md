@@ -50,7 +50,7 @@ This file is located inside of this repository. To download it, open the file he
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***modsOptimized.7z*** - [TO BE UPDATED SOON] (contains most of the mods for this modpack)
+***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1JXmbHx0upTz0ivAm4bLA9tJWvKXiFFkS (contains most of the mods for this modpack)
 
 **Large Mods.7z** - [TO BE UPDATED SOON] (contains the largest mods in this modpack, and those related to them)
 
