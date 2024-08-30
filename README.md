@@ -10,6 +10,14 @@ Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressf
 
 I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. If you have any problems, you can contact me for help and I'll do what I can to assist you. You can contact me via Discord Direct Messages at *AwesomedudeX*.
 
+### Required/Recommended PC Specs (for the game to be playable):
+
+**Storage**: 300GB/350GB or more
+**RAM**: 8GB DDR4/16GB DDR5 or more
+**VRAM**: 4GB GDDR5/6GB GDDR6 or more
+**CPU**: Intel Core i5-10400F/Intel Core i7-11800H or better
+**GPU**: GTX 1650/RTX 3060 or better
+
 To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the ***instructions.txt*** file, inside of the ***Settings Presets*** file. The files you will need are below. If you want the regular ***mods.7z*** file - which has all the mods already installed - instead of the ***modsOptimized.7z*** file - which has a lot of G.A.M.M.A. mods removed to optimize file size (and therefore requires use of the launcher to install the remaining files, which can take a while), then you can send me a message on Discord and I'll get you the file when possible.
 
 To start, create a folder called "STALKER", and open it. Once inside, create a folder called "Anomaly". This will store all of the base game files, and is playable on its own, but tends to be much more enjoyable with mods.
