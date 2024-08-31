@@ -52,7 +52,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1JXmbHx0upTz0ivAm4bLA9tJWvKXiFFkS (contains most of the mods for this modpack)
 
-**Large Mods.7z** - [TO BE UPDATED SOON] (contains the largest mods in this modpack, and those related to them)
+**Large Mods.7z** - https://drive.google.com/uc?export=download&id=1THljOoecN3nY3yThUFkMYU08Cmevx_l1 (contains the largest mods in this modpack, and those related to them)
 
 ***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=10MrBMJzZCNuob7KfyUxIJcgVtpoapjAg (a shaders mod called *"Atmospherics GAMMA"*)
 
