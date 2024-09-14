@@ -54,8 +54,6 @@ These files are located on Google Drive. To download them, just click on the dow
 
 **Large Mods.7z** - https://drive.google.com/uc?export=download&id=1THljOoecN3nY3yThUFkMYU08Cmevx_l1 (contains the largest mods in this modpack, and those related to them)
 
-***Atmospherics GAMMA.7z*** - https://drive.google.com/uc?export=download&id=10MrBMJzZCNuob7KfyUxIJcgVtpoapjAg (a shaders mod called *"Atmospherics GAMMA"*)
-
 ## GAMMA RC3.7z File:
 
 The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Discord Server, but you can also get it here: https://www.mediafire.com/file/y9e4fg4qbi7m6et/GAMMA_RC3.7z/file
