@@ -58,7 +58,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1xgVVq3Q4ByPigTsrW_yng4b954Tw6WiN (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
 
-**Large Files.7z** - COMING SOON (contains the largest mods in this modpack, and those related to them)
+**Large Files.7z** - https://drive.google.com/uc?export=download&id=1TGSW5Ui-mZc-WbYqN5QxLbyR25yZA8D8 (contains the largest mods in this modpack, and those related to them)
 
 ## GAMMA RC3.7z File:
 
