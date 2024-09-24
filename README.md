@@ -122,7 +122,7 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **H**: Cycle health view
 
-**N**: Show **Cold System** HUD (information on this in **Gameplay Information**)
+**7**: Show **Cold System** HUD (information on this in **Gameplay Information**)
 
 
 ## Inventory Keybinds:
@@ -154,8 +154,6 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **6**: Bolt/empty round casings (left square equipment slot)
 
-**7**: Show **Cold System** HUD (for 5 seconds)
-
 **8**: Show radiation counter (mSv)
 
 **9**: Attach/Detach suppressor (if you have one for your currently equipped gun)
@@ -166,7 +164,7 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **R**: Reload (if you have a corresponding magazine that was designated to your loadout - RIGHT-CLICK+"add to loadout" to add a magazine to your loadout)
 
-**V**: Cycle firemodes
+**V**: Cycle firemodes (hold to check firemode)
 
 **Y**: Unjam weapon (or inspect if your weapon is either super-jammed or not jammed - see **Gameplay Information** for more information
 
@@ -175,6 +173,8 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 **G**: Grenade (right square equipment slot)
 
 **M**: PDA device - Personal Digital Assistant (lower-bottom-right small equipment slot)
+
+
 
 
 **F1**: Quick-use item 1
@@ -213,6 +213,11 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 **I**: (**HOLD**) Show current objective
 
 **T**: Companion wheel
+
+
+**0**: Random shout
+
+**P**: Random comment
 
 
 **ENTER**: Start/stop radio
