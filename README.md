@@ -56,7 +56,7 @@ This file is located inside of this repository. To download it, open the file he
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1xgVVq3Q4ByPigTsrW_yng4b954Tw6WiN (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
+***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1wKfSYH18k2wBBsndomlRqwPz7pLnvUTx (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
 
 **Large Files.7z** - https://drive.google.com/uc?export=download&id=1TGSW5Ui-mZc-WbYqN5QxLbyR25yZA8D8 (contains the largest mods in this modpack, and those related to them)
 
