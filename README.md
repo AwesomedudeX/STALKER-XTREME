@@ -14,7 +14,7 @@ I hope you have fun with this - this took a while to make, so I'd appreciate som
 
 Note: Required specs are necessary for the game to be remotely playable with all the default mods, whereas recommended specs will run a up to **30FPS** in most areas, and will achieve up to **60-70FPS** in less demanding areas, like the *Truck Cemetery*, or up to **100-120FPS** in the *Fake Start* testing zone, which can be accessed by pressing **F2** from the main menu.
 
-**Storage**: 300GB/350GB or more
+**Storage**: 200/250GB or more
 
 **RAM**: 8GB DDR4/16GB DDR5 or more
 
