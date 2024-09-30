@@ -79,15 +79,15 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 - Lower shadow quality - **Small Impact**
 - Lower reflection quality - **Small Impact**
-- Lower/disable volumetric light settings in *SSR* - **Medium Impact**
+- Lower/disable volumetric light settings in *SSS* - **Medium Impact**
 
 ## Base Game Settings:
 
 - **IN THE LAUNCHER:** Lower the shadow map resolution - **Medium Impact**
 - Disable or set SSAO to SSDO (less intensive option) - **Small Impact**
 - Lower/disable volumetric light settings
-- Lower your render distance - **Medium Impact**
-- Lower grass density and/or render distance - **Medium to Large Impact**
+- Lower render distance settings - **Medium Impact**
+- Lower grass density/size and/or render distance - **Medium to Large Impact**
 - If all else fails, lower your game resolution (make sure it matches your screen aspect ratio; most common is **16:9**) - **Large Impact**
 
 
@@ -158,7 +158,7 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 
 **4**: Knife/Binoculars (top-left small equipment slot)
 
-**5**: Clean mask (if you are wearing one)
+**5**: Alternate aim toggle
 
 **6**: Bolt/empty round casings (left square equipment slot)
 
@@ -169,6 +169,10 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 **RIGHT-CLICK (hold)**, then **LEFT-ALT**: Point-aim (if you have a lazer) / Underbarrel grenade launcher (if you have one)
 
 **CAPS LOCK**: Detector/Glowstick (upper-bottom-right small equipment slot)
+
+**LEFT ALT**: Toggle quick select wheel (use number keys or scroll wheel to navigate; default is magazines/ammo types)
+
+**RIGHT ALT**: Clean mask (when applicable)
 
 **R**: Reload (if you have a corresponding magazine that was designated to your loadout - RIGHT-CLICK+"add to loadout" to add a magazine to your loadout)
 
@@ -181,7 +185,6 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 **G**: Grenade (right square equipment slot)
 
 **M**: PDA device - Personal Digital Assistant (lower-bottom-right small equipment slot)
-
 
 
 
@@ -263,6 +266,6 @@ The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Di
 **NUMPADENTER**: Toggle HUD
 
 
-**\***: Item Animations
+**\***: Item animations
 
-**]**: Ammo Selector
+**LEFT ALT**: Ammo selector (when the Quick Access Wheel mod is disabled)
