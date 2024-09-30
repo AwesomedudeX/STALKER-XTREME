@@ -10,6 +10,7 @@ Good luck with this **hardcore** setup - it features a *Cold System*, a *Stressf
 
 I hope you have fun with this - this took a while to make, so I'd appreciate some support or feedback where possible. If you have any problems, you can contact me for help and I'll do what I can to assist you. You can contact me via Discord Direct Messages at *AwesomedudeX*.
 
+
 # Required/Recommended PC Specs
 
 Note: Required specs are necessary for the game to be remotely playable with all the default mods, whereas recommended specs will run a up to **30FPS** in most areas, and will achieve up to **60-70FPS** in less demanding areas, like the *Truck Cemetery*, or up to **100-120FPS** in the *Fake Start* testing zone, which can be accessed by pressing **F2** from the main menu.
@@ -24,11 +25,18 @@ Note: Required specs are necessary for the game to be remotely playable with all
 
 **GPU**: GTX 1650/RTX 3060 or better
 
+# Recommended Graphics Settings
+
+I highly recommend using a resolution of 2K or higher for this, as anything lower can lead to noticeable pixelation in foliage. If you are not playing on 2K, make sure to disable Tactical Fonts For Anomaly 2K, and enable 
+Tactical Fonts For Anomaly 4K if you are playing on 4K. I also recommend using the **user.ltx** file inside of the **Settings Presets.7z** file, as these are my recommended controls and graphics configurations for this modpack.
+
+
+# Installation:
+
 To download and set up my configuration, you will need to download the necessary files for the installation. The process is fairly easy, though there is one (very) time consuming step in the process. All installation instructions are in the ***instructions.txt*** file, inside of the ***Settings Presets*** file. The files you will need are below. If you want the regular ***mods.7z*** file - which has all the mods already installed - instead of the ***modsOptimized.7z*** file - which has a lot of G.A.M.M.A. mods removed to optimize file size (and therefore requires use of the launcher to install the remaining files, which can take a while), then you can send me a message on Discord and I'll get you the file when possible.
 
 To start, create a folder called "STALKER", and open it. Once inside, create a folder called "Anomaly". This will store all of the base game files, and is playable on its own, but tends to be much more enjoyable with mods.
 
-# Installation Files:
 
 ## Anomaly Files:
 
