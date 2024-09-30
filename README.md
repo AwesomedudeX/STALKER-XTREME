@@ -27,8 +27,8 @@ Note: Required specs are necessary for the game to be remotely playable with all
 
 # Recommended Graphics Settings
 
-I highly recommend using a resolution of 2K or higher for this, as anything lower can lead to noticeable pixelation in foliage. If you are not playing on 2K, make sure to disable Tactical Fonts For Anomaly 2K, and enable 
-Tactical Fonts For Anomaly 4K if you are playing on 4K. I also recommend using the **user.ltx** file inside of the **Settings Presets.7z** file, as these are my recommended controls and graphics configurations for this modpack.
+I highly recommend using a resolution of 2K or higher for this, as anything lower can lead to noticeable pixelation in foliage. If you are not playing on 2K, make sure to disable **Tactical Fonts For Anomaly 2K**, and enable 
+**Tactical Fonts For Anomaly 4K** if you are playing on 4K. I also recommend using the **user.ltx** file inside of the **Settings Presets.7z** file, as these are my recommended controls and graphics configurations for this modpack.
 
 
 # Installation:
