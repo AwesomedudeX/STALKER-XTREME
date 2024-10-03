@@ -68,7 +68,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ## GAMMA RC3.7z File:
 
-The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Discord Server, but you can also get it here: https://www.mediafire.com/file/y9e4fg4qbi7m6et/GAMMA_RC3.7z/file
+The download link for this file can be found on the S.T.A.L.K.E.R. G.A.M.M.A. Discord Server, but you can also get it here: https://www.mediafire.com/folder/agyul0e6fbban/STALKER_GAMMA
 
 
 # Performance Tips
