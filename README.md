@@ -40,19 +40,17 @@ To start, create a folder called "STALKER", and open it. Once inside, create a f
 
 ## Anomaly Files:
 
-Before you start, you will need STALKER Anomaly 1.5.2; to get it, just download these two files:
+Before you start, you will need STALKER Anomaly 1.5.3; to get it, just download these two files:
 
-***STALKER Anomaly 1.5.1***: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151
+***STALKER Anomaly 1.5.3***: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-153
 
-***STALKER ANOMALY 1.5.2 Update***: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151-to-152
-
-AFter they're done downloading, open them in 7zip (download at https://7-zip.org/download.html), and drag and drop **ALL** of the contents of the Anomaly 1.5.1 file into your Anomaly folder. After that's done, do the same for the 1.5.2 update and replace the existing files when prompted. After the game has been installed, run the Anomaly launcher, enable the "Delete shader cache" box, select your display settings and launch the game. Once the main menu loads, close the game - this is just to have STALKER Anomaly generate the folders and files neccessary to mod the game and run it.
+AFter they're done downloading, open them in 7zip (download at https://7-zip.org/download.html), and drag and drop **ALL** of the contents of the Anomaly 1.5.3 file into your Anomaly folder. After the game has been installed, run the Anomaly launcher, enable the "Delete shader cache" box, select your display settings and launch the game. Once the main menu loads, close the game - this is just to have STALKER Anomaly generate the folders and files neccessary to mod the game and run it.
 
 You'll also need the latest Demonized Modded Exes so that you can run the mods in this modpack. To get it, go to this link:
 
-***Demonized Modded Exes***: https://github.com/themrdemonized/STALKER-Anomaly-modded-exes
+***Demonized Modded Exes***: https://github.com/themrdemonized/xray-monolith/releases
 
-Once on the page, click on the latest release file under **Releases** on the right side of the page, and once on the next page, click on the STALKER-Anomaly-modded-exes file to download it. After that, open it up in 7Zip and drag and drop **everything** in it to the Anomaly folder, and replace the files when prompted.
+Once on the page, click on the latest STALKER-Anomaly-modded-exes.zip file to download it. After that, open it up in 7Zip and drag and drop **everything** in it to the Anomaly folder - replace the files when prompted.
 
 ## GitHub Files:
 
@@ -64,9 +62,9 @@ This file is located inside of this repository. To download it, open the file he
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1LN5waCcyZ7VHaBfw0Ry7U55h-QcXs10C (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
+***modsOptimized.7z*** - **TO BE UPDATED** (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
 
-**Large Files.7z** - https://drive.google.com/uc?export=download&id=1DOa-caePmtv0phuRjYleP267hMjHMsLo (contains the largest mods in this modpack, and those related to them)
+**Large Files.7z** - **TO BE UPDATED** (contains the largest mods in this modpack, and those related to them)
 
 ## GAMMA RC3.7z File:
 
