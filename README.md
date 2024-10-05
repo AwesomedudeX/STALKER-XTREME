@@ -40,11 +40,11 @@ To start, create a folder called "STALKER", and open it. Once inside, create a f
 
 ## Anomaly Files:
 
-Before you start, you will need STALKER Anomaly 1.5.3; to get it, just download these two files:
+Before you start, you will need STALKER Anomaly 1.5.3; to get it, just download this file:
 
 ***STALKER Anomaly 1.5.3***: https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-153
 
-AFter they're done downloading, open them in 7zip (download at https://7-zip.org/download.html), and drag and drop **ALL** of the contents of the Anomaly 1.5.3 file into your Anomaly folder. After the game has been installed, run the Anomaly launcher, enable the "Delete shader cache" box, select your display settings and launch the game. Once the main menu loads, close the game - this is just to have STALKER Anomaly generate the folders and files neccessary to mod the game and run it.
+Once it's done downloading, open it in 7zip (download at https://7-zip.org/download.html), and drag and drop **ALL** of the contents of the Anomaly 1.5.3 file into your Anomaly folder. After that, run the Anomaly launcher, enable the "Delete shader cache" box, select your display settings and launch the game. Once the main menu loads, close the game - running the game was just to have STALKER Anomaly generate the folders and files neccessary to run and modify the game.
 
 You'll also need the latest Demonized Modded Exes so that you can run the mods in this modpack. To get it, go to this link:
 
