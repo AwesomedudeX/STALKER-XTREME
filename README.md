@@ -62,9 +62,9 @@ This file is located inside of this repository. To download it, open the file he
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***modsOptimized.7z*** - **TO BE UPDATED** (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
+***modsOptimized.7z*** - **COMING SOON** (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
 
-**Large Files.7z** - **TO BE UPDATED** (contains the largest mods in this modpack, and those related to them)
+**Large Files.7z** - **COMING SOON** (contains the largest mods in this modpack, and those related to them)
 
 ## GAMMA RC3.7z File:
 
