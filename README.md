@@ -62,9 +62,11 @@ This file is located inside of this repository. To download it, open the file he
 
 These files are located on Google Drive. To download them, just click on the download links associated with each one and click "Download anyway" on the page that pops up.
 
-***modsOptimized.7z*** - https://drive.google.com/uc?export=download&id=1ZQ-2titmhekeIXH51aH2bVNlroKb9jb2 (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
+***modsOptimized.7z*** - **CURRENTLY UNAVAILABLE** (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
 
 ***Large Mods.7z*** - https://drive.google.com/uc?export=download&id=1VmO9DNia2yNczylKNhxS-jlhZMhvDFT0 (contains the largest mods in this modpack, and those related to them)
+
+*XTREME Graphics* - [] (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load xtreme` in the terminal after installation)
 
 ## GAMMA RC3.7z File:
 
