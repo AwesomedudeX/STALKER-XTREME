@@ -68,7 +68,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***XTREME Graphics*** - https://drive.google.com/uc?export=download&id=1fVCSxj7zW2-KlWqC914hreSKS9ULbSj_ (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load xtreme` in the game console after installation)
 
- - Copy the ***XTREME Graphics*** link with the underscore at the end ("**_**") and paste it into your URL bar - GitHub thinks it's not part of the link, but it is.
+ - Copy the ***XTREME Graphics*** link **with** the underscore at the end ("**_**") and paste it into your URL bar - GitHub thinks it's not part of the link, but it is.
 
 ## GAMMA RC3.7z File:
 
