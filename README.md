@@ -66,9 +66,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***Large Mods.7z*** - *https://drive.google.com/uc?export=download&id=1VmO9DNia2yNczylKNhxS-jlhZMhvDFT0* (contains the largest mods in this modpack, and those related to them)
 
-***XTREME Graphics*** - https://drive.google.com/uc?export=download&id=1fVCSxj7zW2-KlWqC914hreSKS9ULbSj_ (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load xtreme` in the game console after installation)
-
- - Copy the ***XTREME Graphics*** link **with** the underscore at the end ("**_**") and paste it into your URL bar - GitHub thinks it's not part of the link, but it is.
+***XTREME Graphics Overhaul*** - https://drive.google.com/uc?export=download&id=1TFaUuJCYuocwBgwnX5kbcjiOcSPvYnUs (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load AtmosXTREME` in the game console after installation)
 
 ## GAMMA RC3.7z File:
 
