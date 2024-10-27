@@ -66,7 +66,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***Large Mods.7z*** - *https://drive.google.com/uc?export=download&id=1VmO9DNia2yNczylKNhxS-jlhZMhvDFT0* (contains the largest mods in this modpack, and those related to them)
 
-***XTREME Graphics Overhaul*** - https://drive.google.com/uc?export=download&id=1UCXNkY4wvPAunpildteGte2Zg2jEv8R- (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load AtmosXTREME` in the game console after installation)
+***XTREME Graphics Overhaul*** - https://drive.google.com/uc?export=download&id=1ndsq5JP2HbPkfaZnBkzOl_HsvTfnqxN6 (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load AtmosXTREME` in the game console after installation)
 
 **ReShade 5.7.0 For DX11** - *https://drive.google.com/uc?export=download&id=1fSkH9h0TvaHZF10O3dOC5s9yAOB_95_7* (contains ReShade 5.7.0 and addons that will improve the look of the game - ensure that `GAMMA/mods/XTREME Graphics Overhaul/bin/FrostyCinematic/` is selected)
 
