@@ -64,7 +64,7 @@ These files are located on Google Drive. To download them, just click on the dow
 
 ***modsOptimized.7z*** - **UNAVAILABLE** (contains most of the mods in this modpack, as well as the Mod Organizer 2 mod configuration files)
 
-***Large Mods.7z*** - *https://drive.google.com/uc?export=download&id=1VmO9DNia2yNczylKNhxS-jlhZMhvDFT0* (contains the largest mods in this modpack, and those related to them)
+***Large Mods.7z*** - **UNAVAILABLE** (contains the largest mods in this modpack, and those related to them)
 
 ***XTREME Graphics Overhaul*** - https://drive.google.com/uc?export=download&id=1ndsq5JP2HbPkfaZnBkzOl_HsvTfnqxN6 (contains the main graphics mods for this modpack compressed into a single mod - delete shader cache and use `cfg_load AtmosXTREME` in the game console after installation)
 
